@@ -1,7 +1,7 @@
 - :raising_hand: Hi, I’m @debbeheh
 - 👀 I’m interested in comics, history, anthropology and digital humanities.
 - 🌱 I’m currently learning html and css.
-- :books: I'm working at the Bologna CNR Research Area Library.  
+- :books: I'm studying history
 - 📫 
 
 <!---
