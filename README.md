@@ -1,5 +1,5 @@
 - :raising_hand: Hi, I’m @debbeheh
-- 👀 I’m interested in comics, history, anthropology and digital humanities.
+- 👀 I’m interested in comics, history and anthropology.
 - 🌱 I’m currently learning html and css.
 - :books: I'm studying history
 - 📫 
