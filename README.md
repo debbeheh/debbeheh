@@ -1,5 +1,5 @@
 - :raising_hand: Hi, I’m @debbeheh
-- 👀 I’m interested in comics, history and anthropology.
+- 👀 I’m a librarian at Dario Nobili Library, CNR Bologna
  
 
 <!---
